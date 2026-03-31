@@ -47,10 +47,5 @@ namespace WindowsFormsApp10
             }
             label1.Text = result.ToString();
         }
-
-        private void listBox1_SelectedIndexChanged_1(object sender, EventArgs e)
-        {
-
-        }
     }
 }
